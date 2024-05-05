@@ -28,7 +28,7 @@ Introduction of comma separated interface values.
 
 [Examples](1-0-0/examples/).
 
-[Extant example](https://github.com/AdiAddons/AdiBags/releases/download/v1.10.26/release.json):
+[Extant example](https://github.com/AdiAddons/AdiBags/releases/tag/v1.10.26):
 
 ```json
 {
