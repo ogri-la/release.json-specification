@@ -6,7 +6,7 @@
             "enum": ["mainline", "classic", "bcc", "wrath", "cata"]
         },
         "flavor-alias": {
-            "enum": ["vanilla", "tcc", "wotlk", "wotlkc"]
+            "enum": ["vanilla", "tbc", "wotlk", "wotlkc"]
         }
     },
     "properties": {
