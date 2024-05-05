@@ -11,10 +11,10 @@ Versioning follows [SchemaVer](https://snowplow.io/blog/introducing-schemaver-fo
 
 # history
 
-The `release.json` file and is structure were created by ... on ... to ...
+The `release.json` file was created by ... on ... to ...
 
-This *specification* was created by Torkus on 2024-05 to formally describe the format, best practices and track changes
-in it's usage over time.
+This *specification* was created by Torkus on 2024-05 to formally describe the data structure, best practices and track
+changes in it's usage over time.
 
 ## 1-1-0
 
@@ -63,11 +63,11 @@ Introduction of comma separated interface values.
 
 # Licence
 
-`release.json specification` by [Torkus](https://github.com/torkus).
+`release.json-specification` by [Torkus](https://github.com/torkus).
 
 To the extent possible under law, the person who associated CC0 with
-`release.json specification` has waived all copyright and related or neighboring rights
-to `release.json specification`.
+`release.json-specification` has waived all copyright and related or neighboring rights
+to `release.json-specification`.
 
 You should have received a copy of the CC0 legalcode along with this
 work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
