@@ -11,9 +11,9 @@ Versioning follows [SchemaVer](https://snowplow.io/blog/introducing-schemaver-fo
 
 # history
 
-The idea of a metadata file to accompany GitHub add-on releases was pitched by layday, was put forward to the add-on developer community by AcidWeb and was implemented in [packager](https://github.com/BigWigsMods/packager) by nebularg.
+The idea of a metadata file to accompany GitHub add-on releases was pitched by layday, put forward to the add-on developer community by [AcidWeb](https://github.com/AcidWeb) and was implemented in [packager](https://github.com/BigWigsMods/packager) by [nebularg](https://github.com/nebularg).
 
-This *specification* was created by Torkus on 2024-05 to formally describe the data structure, best practices and track
+This *specification* was created by [Torkus](https://github.com/torkus) on 2024-05 to formally describe the data structure, best practices and track
 changes in its usage over time.
 
 ## 1-1-0
