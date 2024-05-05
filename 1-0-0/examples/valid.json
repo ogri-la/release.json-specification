@@ -1,0 +1,28 @@
+{
+  "releases": [
+    {
+      "name": "AdiBags",
+      "version": "v1.10.26",
+      "filename": "AdiBags-v1.10.26.zip",
+      "nolib": false,
+      "metadata": [
+        {
+          "flavor": "mainline",
+          "interface": 100206
+        },
+        {
+          "flavor": "wrath",
+          "interface": 30401
+        },
+        {
+          "flavor": "classic",
+          "interface": 11500
+        },
+        {
+          "flavor": "bcc",
+          "interface": 20504
+        }
+      ]
+    }
+  ]
+}

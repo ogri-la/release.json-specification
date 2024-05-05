@@ -1,0 +1,63 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "type": "object",
+    "definitions": {
+        "flavor": {
+            "enum": ["mainline", "vanilla", "tbc", "wrath", "cata"]
+        },
+        "flavor-alias": {
+            "enum": ["classic", "bcc", "wotlk", "wotlkc"]
+        }
+    },
+    "properties": {
+        "releases": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "name": {
+                        "type": "string"
+                    },
+                    "version": {
+                        "type": "string"
+                    },
+                    "filename": {
+                        "type": "string"
+                    },
+                    "nolib": {
+                        "type": "boolean"
+                    },
+                    "metadata": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "flavor": {
+                                    "anyOf": [
+                                        { "$ref": "#/definitions/flavor" },
+                                        { "$ref": "#/definitions/flavor-alias" }
+                                    ]
+                                },
+                                "interface": {
+                                    "type": "number"
+                                }
+                            },
+                            "required": [
+                                "flavor"
+                            ]
+                        }
+                    }
+                },
+                "required": [
+                    "filename",
+                    "metadata"
+                ],
+                "additionalProperties": false
+            }
+        }
+    },
+    "required": [
+        "releases"
+    ],
+    "additionalProperties": false
+}
