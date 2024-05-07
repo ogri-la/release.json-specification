@@ -4,9 +4,6 @@
     "definitions": {
         "flavor": {
             "enum": ["mainline", "classic", "bcc", "wrath", "cata"]
-        },
-        "flavor-alias": {
-            "enum": ["vanilla", "tbc", "wotlk", "wotlkc"]
         }
     },
     "properties": {
@@ -34,8 +31,7 @@
                             "properties": {
                                 "flavor": {
                                     "anyOf": [
-                                        { "$ref": "#/definitions/flavor" },
-                                        { "$ref": "#/definitions/flavor-alias" }
+                                        { "$ref": "#/definitions/flavor" }
                                     ]
                                 },
                                 "interface": {
