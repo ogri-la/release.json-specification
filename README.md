@@ -7,8 +7,6 @@ Versioning follows [SchemaVer](https://snowplow.io/blog/introducing-schemaver-fo
 
 `release.json` files can be validated with the [release.json-validator](https://github.com/ogri-la/release.json-validator) tool.
 
-...
-
 # history
 
 The idea of a metadata file to accompany GitHub add-on releases was pitched by layday, put forward to the add-on developer community by [AcidWeb](https://github.com/AcidWeb) and was implemented in [packager](https://github.com/BigWigsMods/packager) by [nebularg](https://github.com/nebularg).
