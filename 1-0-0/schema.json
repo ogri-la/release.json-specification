@@ -43,13 +43,16 @@
                                 }
                             },
                             "required": [
-                                "flavor"
-                            ]
+                                "flavor",
+                                "interface"
+                            ],
+                            "additionalProperties": false
                         }
                     }
                 },
                 "required": [
                     "filename",
+                    "nolib",
                     "metadata"
                 ],
                 "additionalProperties": false
