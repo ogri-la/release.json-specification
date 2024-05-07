@@ -53,7 +53,7 @@ changes in its usage over time.
 }
 ```
 
-# Licence
+## Licence
 
 `release.json-specification` by [Torkus](https://github.com/torkus).
 
