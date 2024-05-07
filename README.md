@@ -14,12 +14,6 @@ The idea of a metadata file to accompany GitHub add-on releases was pitched by l
 This *specification* was created by [Torkus](https://github.com/torkus) on 2024-05 to formally describe the data structure, best practices and track
 changes in its usage over time.
 
-## 1-1-0
-
-Introduction of comma separated interface values.
-
-...
-
 ## 1-0-0
 
 [Specification](1-0-0/schema.json).
