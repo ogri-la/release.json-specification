@@ -11,14 +11,13 @@ Versioning follows [SchemaVer](https://snowplow.io/blog/introducing-schemaver-fo
 
 The idea of a metadata file to accompany GitHub add-on releases was pitched by layday, put forward to the add-on developer community by [AcidWeb](https://github.com/AcidWeb) and was implemented in [packager](https://github.com/BigWigsMods/packager) by [nebularg](https://github.com/nebularg).
 
-This *specification* was created by [Torkus](https://github.com/torkus) on 2024-05 to formally describe the data structure, best practices and track
-changes in its usage over time.
+This *specification* was created by [Torkus](https://github.com/torkus) on 2024-05 to formally describe the data structure, best practices and track changes in its usage over time.
 
-## 1-0-0
+## 1-0-1
 
-[Specification](1-0-0/schema.json).
+[Specification](./schema.json).
 
-[Examples](1-0-0/examples/).
+[Examples](./examples/).
 
 [Extant example](https://github.com/AdiAddons/AdiBags/releases/tag/v1.10.26):
 

@@ -21,6 +21,10 @@
         {
           "flavor": "bcc",
           "interface": 20504
+        },
+        {
+            "flavor": "mists",
+            "interface": 50100
         }
       ]
     }
