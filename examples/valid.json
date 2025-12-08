@@ -11,16 +11,24 @@
           "interface": 100206
         },
         {
-          "flavor": "wrath",
-          "interface": 30401
-        },
-        {
           "flavor": "classic",
           "interface": 11500
         },
         {
           "flavor": "bcc",
           "interface": 20504
+        },
+        {
+          "flavor": "wrath",
+          "interface": 30401
+        },
+        {
+          "flavor": "titan",
+          "interface": 38000
+        },
+        {
+          "flavor": "cata",
+          "interface": 40402
         },
         {
             "flavor": "mists",
