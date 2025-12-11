@@ -9,38 +9,38 @@ Versioning follows [SchemaVer](https://snowplow.io/blog/introducing-schemaver-fo
 
 ## history
 
-The idea of a metadata file to accompany GitHub add-on releases was pitched by layday, put forward to the add-on developer community by [AcidWeb](https://github.com/AcidWeb) and was implemented in [packager](https://github.com/BigWigsMods/packager) by [nebularg](https://github.com/nebularg).
+The idea of a metadata file to accompany GitHub add-on releases was pitched by [layday](https://github.com/layday), put forward to the add-on developer community by [AcidWeb](https://github.com/AcidWeb) and was implemented in [packager](https://github.com/BigWigsMods/packager) by [nebularg](https://github.com/nebularg).
 
-This *specification* was created by [Torkus](https://github.com/torkus) on 2024-05 to formally describe the data structure, best practices and track changes in its usage over time.
+This *specification* was created by [Torkus](https://github.com/torkus) in 2024-05 to formally describe the data structure, best practices and track changes in its usage over time.
 
-## 1-0-1
+## 1-0-2
 
 [Specification](./schema.json).
 
 [Examples](./examples/).
 
-[Extant example](https://github.com/AdiAddons/AdiBags/releases/tag/v1.10.26):
+[Extant example](https://github.com/AdiAddons/AdiBags/releases/tag/v1.10.29):
 
 ```json
 {
   "releases": [
     {
       "name": "AdiBags",
-      "version": "v1.10.26",
-      "filename": "AdiBags-v1.10.26.zip",
+      "version": "v1.10.29",
+      "filename": "AdiBags-v1.10.29.zip",
       "nolib": false,
       "metadata": [
         {
           "flavor": "mainline",
-          "interface": 100206
+          "interface": 110002
         },
         {
           "flavor": "wrath",
-          "interface": 30401
+          "interface": 30403
         },
         {
           "flavor": "classic",
-          "interface": 11500
+          "interface": 11503
         },
         {
           "flavor": "bcc",
