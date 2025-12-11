@@ -9,6 +9,7 @@ and this project adheres to [SchemaVer](https://snowplow.io/blog/introducing-sch
 
 ### Added
 - "titan" flavor to supported game flavors
+- `$id` field to schema for canonical reference
 
 ## [1-0-1] - 2025-06-09
 
