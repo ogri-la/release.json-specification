@@ -11,16 +11,16 @@
           "interface": 100206
         },
         {
-          "flavor": "wrath",
-          "interface": 30401
-        },
-        {
-          "flavor": "classic",
+          "flavor": "vanilla",
           "interface": 11500
         },
         {
-          "flavor": "bcc",
+          "flavor": "tbc",
           "interface": 20504
+        },
+        {
+          "flavor": "wotlk",
+          "interface": 30401
         }
       ]
     }
