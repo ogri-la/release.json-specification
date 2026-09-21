@@ -13,7 +13,7 @@ The idea of a metadata file to accompany GitHub add-on releases was pitched by [
 
 This *specification* was created by [Torkus](https://github.com/torkus) in 2024-05 to formally describe the data structure, best practices and track changes in its usage over time.
 
-## 1-0-2
+## 1-0-3
 
 [Specification](./schema.json).
 
