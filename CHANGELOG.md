@@ -5,6 +5,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [SchemaVer](https://snowplow.io/blog/introducing-schemaver-for-semantic-versioning-of-schemas/).
 
+## [1-0-3] - 2026-09-21
+
+### Added
+- "forever" flavor to supported game flavors
+
 ## [1-0-2] - 2025-12-08
 
 ### Added

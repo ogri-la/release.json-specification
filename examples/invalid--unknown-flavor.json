@@ -21,6 +21,10 @@
         {
           "flavor": "wotlk",
           "interface": 30401
+        },
+        {
+          "flavor": "camelot",
+          "interface": 16000
         }
       ]
     }

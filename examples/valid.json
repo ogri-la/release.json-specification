@@ -15,6 +15,10 @@
           "interface": 11500
         },
         {
+          "flavor": "forever",
+          "interface": 16000
+        },
+        {
           "flavor": "bcc",
           "interface": 20504
         },
